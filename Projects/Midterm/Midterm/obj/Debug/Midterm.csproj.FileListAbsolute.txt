@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\bin\Debug\Midterm.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\bin\Debug\Midterm.exe
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\bin\Debug\Midterm.pdb
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\obj\Debug\Midterm.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\obj\Debug\Midterm.exe
+\\mac\home\documents\visual studio 2015\Projects\Midterm\Midterm\obj\Debug\Midterm.pdb

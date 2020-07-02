@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb

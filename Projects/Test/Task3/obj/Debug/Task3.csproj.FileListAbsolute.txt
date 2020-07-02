@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Test\Task3\bin\Debug\Task3.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Test\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Test\Task3\bin\Debug\Task3.exe
+\\mac\home\documents\visual studio 2015\Projects\Test\Task3\bin\Debug\Task3.pdb
+\\mac\home\documents\visual studio 2015\Projects\Test\Task3\obj\Debug\Task3.exe
+\\mac\home\documents\visual studio 2015\Projects\Test\Task3\obj\Debug\Task3.pdb
+X:\Documents\Visual Studio 2015\Projects\Test\Task3\bin\Debug\Task3.exe.config
+X:\Documents\Visual Studio 2015\Projects\Test\Task3\obj\Debug\Task3.exe
+X:\Documents\Visual Studio 2015\Projects\Test\Task3\obj\Debug\Task3.pdb

@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Far\Far\bin\Debug\Far.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Far\Far\bin\Debug\Far.exe
+\\mac\home\documents\visual studio 2015\Projects\Far\Far\bin\Debug\Far.pdb
+\\mac\home\documents\visual studio 2015\Projects\Far\Far\obj\Debug\Far.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Far\Far\obj\Debug\Far.exe
+\\mac\home\documents\visual studio 2015\Projects\Far\Far\obj\Debug\Far.pdb

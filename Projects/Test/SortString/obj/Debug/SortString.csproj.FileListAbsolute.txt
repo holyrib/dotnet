@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\Test\SortString\bin\Debug\SortString.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Test\SortString\bin\Debug\SortString.exe
+\\mac\home\documents\visual studio 2015\Projects\Test\SortString\bin\Debug\SortString.pdb
+\\mac\home\documents\visual studio 2015\Projects\Test\SortString\obj\Debug\SortString.exe
+\\mac\home\documents\visual studio 2015\Projects\Test\SortString\obj\Debug\SortString.pdb

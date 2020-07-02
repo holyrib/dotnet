@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+\\mac\home\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb

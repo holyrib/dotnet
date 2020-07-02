@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.exe
+\\mac\home\documents\visual studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.pdb
+\\mac\home\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.exe
+\\mac\home\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.pdb

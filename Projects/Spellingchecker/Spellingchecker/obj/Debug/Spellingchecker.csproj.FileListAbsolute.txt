@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\bin\Debug\Spellingchecker.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\bin\Debug\Spellingchecker.exe
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\bin\Debug\Spellingchecker.pdb
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\obj\Debug\Spellingchecker.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\obj\Debug\Spellingchecker.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\obj\Debug\Spellingchecker.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\obj\Debug\Spellingchecker.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\obj\Debug\Spellingchecker.exe
+\\mac\home\documents\visual studio 2015\Projects\Spellingchecker\Spellingchecker\obj\Debug\Spellingchecker.pdb

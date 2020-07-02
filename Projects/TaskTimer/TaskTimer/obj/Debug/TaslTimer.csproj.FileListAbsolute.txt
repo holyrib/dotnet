@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\bin\Debug\TaslTimer.exe.config
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\bin\Debug\TaslTimer.exe
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\bin\Debug\TaslTimer.pdb
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\obj\Debug\TaslTimer.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\obj\Debug\TaslTimer.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\obj\Debug\TaslTimer.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\obj\Debug\TaslTimer.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\obj\Debug\TaslTimer.exe
+\\mac\home\documents\visual studio 2015\Projects\TaslTimer\TaslTimer\obj\Debug\TaslTimer.pdb
